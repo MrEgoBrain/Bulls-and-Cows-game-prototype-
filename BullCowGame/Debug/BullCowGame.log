@@ -1,5 +1,0 @@
-﻿  FBullCowGame.cpp
-c:\users\юрий\source\repos\section_02\bullcowgame\fbullcowgame.cpp(122): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  main.cpp
-  Generating Code...
-  BullCowGame.vcxproj -> C:\Users\Юрий\source\repos\Section_02\Debug\BullCowGame.exe
